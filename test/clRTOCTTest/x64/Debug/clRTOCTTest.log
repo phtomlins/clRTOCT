@@ -1,0 +1,20 @@
+﻿Build started 08/01/2015 09:52:22.
+     1>Project "C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\clRTOCTTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\clRTOCTTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\x64\Debug\clRTOCTTest.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\\..\..\lib\win\x64\Debug" /LIBPATH:"C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\..\..\bin\win\x64\Debug" /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\lib" clRTOCT.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\clRTOCTTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\x64\Debug\clRTOCTTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\x64\Debug\clRTOCTTest.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\timing.obj
+         clRTOCTTest.vcxproj -> C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\x64\Debug\clRTOCTTest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\x64\Debug\clRTOCTTest.exe;#1" /manifest x64\Debug\clRTOCTTest.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\clRTOCTTest.unsuccessfulbuild".
+         Touching "x64\Debug\clRTOCTTest.lastbuildstate".
+     1>Done Building Project "C:\Users\OCT\Google Drive\OCT Control Software - octView\clRTOCT\devel\current\test\clRTOCTTest\clRTOCTTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46
